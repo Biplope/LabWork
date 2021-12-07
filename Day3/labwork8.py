@@ -1,6 +1,6 @@
 #Given a n-digit number. Find the sum of its digits/
 number=int(input("NUmber:"))
-totoal=0
+total=0
 while number>0:
     digits=number%10
     total=total+digits
